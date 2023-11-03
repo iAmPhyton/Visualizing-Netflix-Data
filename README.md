@@ -1,4 +1,4 @@
-# Visualizing Netlix Data
+# Visualizing Netflix Data
 
 In this digital era, data is everywhere. Whether you're clicking a link, creating an instance, or watching a video, you're generating valuable data. But the real question is, can you turn this data into useful insights?
 
