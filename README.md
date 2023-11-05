@@ -30,4 +30,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Let's bring your data to life with PlotlyInsights, and turn information into invaluable insights. Happy data visualization!
+Please note: some images are best viewed in a compatible IDE like Jupyter Notebook, as some images contain more information when the mouse is hovered above some parts of the image.
